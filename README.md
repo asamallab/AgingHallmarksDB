@@ -1,7 +1,7 @@
 # AgingHallmarksDB - Network Proximity Analysis
 
 This repository computes network proximity between aging hallmark genes and age-related disease genes on the Human Protein-Protein Interaction (PPI) network, using the [netmedpy](https://github.com/menicgiulia/NetMedPy) library. The computation runs in two sequential steps: 
-- precomputing all-pair shortest path distances on the PPI graph
+- precomputing the shortest path distances between all-pairs on the PPI graph
 - scoring proximity for each disease–aging hallmark pair
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -19,7 +19,7 @@ Rahul Tiwari, Mridhula Balaji, Nikhil Chivukula, Priyotosh Sil, and Areejit Sama
 
 ```
 .
-├── requirements.txt                              # Top-level dependencies for the full pipeline
+├── requirements.txt                              # Top-level dependencies for the full computation
 ├── precompute_PPI_distances/     
 │   ├── input/
 │   │   └── Human_PPI.pkl                         # Human PPI network (pickled NetworkX graph)
