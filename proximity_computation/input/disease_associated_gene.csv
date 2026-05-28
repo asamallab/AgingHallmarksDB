@@ -1,0 +1,1024 @@
+Serial Number,Gene Symbols,Entrez ID,Disease
+1,A2M,2,Alzheimer's Disease | Parkinson's Disease
+2,ABAT,18,Alzheimer's Disease
+3,ABCA1,19,Alzheimer's Disease | Atherosclerosis | Type 2 Diabets Mellitus
+4,ABCA4,24,Age-related Macular Degeneration 
+5,ABCA7,10347,Alzheimer's Disease
+6,ABCB1,5243,Parkinson's Disease | Type 2 Diabets Mellitus
+7,ABCB4,5244,Non Alcoholic Fatty Liver Disease
+8,ABCC1,4363,Chronic Obstructive Pulmonary Disease
+9,ABCC2,1244,Non Alcoholic Fatty Liver Disease
+10,ABCC8,6833,Type 2 Diabets Mellitus
+11,ABCG2,9429,Heart Failure
+12,ABCG5,64240,Atherosclerosis
+13,ABI3,51225,Alzheimer's Disease
+14,ACACA,31,Heart Failure
+15,ACADS,35,Heart Failure
+16,ACE,1636,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease | Heart Failure | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+17,ACE2,59272,Heart Failure
+18,ACHE,43,Alzheimer's Disease
+19,ACLY,47,Heart Failure
+20,ACP1,52,Type 2 Diabets Mellitus
+21,ACTG1,71,Osteoporosis
+22,ADAM10,102,Alzheimer's Disease
+23,ADAM17,6868,Alzheimer's Disease | Type 2 Diabets Mellitus
+24,ADAM33,80332,Chronic Obstructive Pulmonary Disease
+25,ADAMTS1,9510,Alzheimer's Disease
+26,ADAMTS9,56999,Type 2 Diabets Mellitus
+27,ADARB2,105,Parkinson's Disease
+28,ADCY5,111,Osteoporosis | Parkinson's Disease | Type 2 Diabets Mellitus
+29,ADD1,118,Atherosclerosis
+30,ADH4,127,Non Alcoholic Fatty Liver Disease
+31,ADIPOQ,9370,Atherosclerosis | Heart Failure | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+32,ADIPOR2,79602,Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+33,ADORA2A,135,Parkinson's Disease
+34,ADRA1A,148,Alzheimer's Disease
+35,ADRA2A,150,Type 2 Diabets Mellitus
+36,ADRA2B,151,Type 2 Diabets Mellitus
+37,ADRA2C,152,Heart Failure
+38,ADRB1,153,Chronic Obstructive Pulmonary Disease | Heart Failure
+39,ADRB2,154,Chronic Obstructive Pulmonary Disease
+40,ADRB3,155,Alzheimer's Disease | Heart Failure | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+41,AGER,177,Alzheimer's Disease | Atherosclerosis | Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+42,AGRP,181,Type 2 Diabets Mellitus
+43,AGT,183,Atherosclerosis | Heart Failure
+44,AGTR1,185,Alzheimer's Disease | Heart Failure
+45,AGXT2,64902,Heart Failure
+46,AHCY,191,Non Alcoholic Fatty Liver Disease
+47,AHR,196,Atherosclerosis | Non Alcoholic Fatty Liver Disease
+48,AHSG,197,Type 2 Diabets Mellitus
+49,AIF1,199,Parkinson's Disease
+50,AKR1B1,231,Type 2 Diabets Mellitus
+51,AKT1,207,Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+52,AKT2,208,Type 2 Diabets Mellitus
+53,ALB,213,Heart Failure
+54,ALDH1A1,216,Non Alcoholic Fatty Liver Disease | Parkinson's Disease
+55,ALDH1A2,8854,Parkinson's Disease
+56,ALDH1B1,219,Non Alcoholic Fatty Liver Disease
+57,ALDH2,217,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+58,ALDH4A1,8659,Non Alcoholic Fatty Liver Disease
+59,ALDOB,229,Type 2 Diabets Mellitus
+60,ALOX15,246,Atherosclerosis
+61,ALOX5,240,Atherosclerosis
+62,ALOX5AP,241,Atherosclerosis
+63,AMFR,267,Alzheimer's Disease
+64,AMPD1,270,Heart Failure
+65,ANG,283,Parkinson's Disease
+66,ANTXR2,118429,Osteoporosis
+67,ANXA2,302,Osteoporosis
+68,AP3S2,10239,Type 2 Diabets Mellitus
+69,APBB1,322,Alzheimer's Disease
+70,APBB2,323,Alzheimer's Disease
+71,APCS,325,Heart Failure
+72,APH1B,83464,Alzheimer's Disease
+73,APOA1,335,Alzheimer's Disease | Atherosclerosis
+74,APOA4,337,Alzheimer's Disease | Atherosclerosis
+75,APOA5,116519,Type 2 Diabets Mellitus
+76,APOB,338,Type 2 Diabets Mellitus
+77,APOC1,341,Alzheimer's Disease | Heart Failure
+78,APOD,347,Type 2 Diabets Mellitus
+79,APOE,348,Alzheimer's Disease | Atherosclerosis | Heart Failure | Age-related Macular Degeneration 
+80,APOH,350,Non Alcoholic Fatty Liver Disease
+81,APOM,55937,Type 2 Diabets Mellitus
+82,APP,351,Alzheimer's Disease
+83,APP-DT,118568803,Alzheimer's Disease
+84,ARC,23237,Alzheimer's Disease
+85,ARG2,384,Heart Failure
+86,ARNT2,9915,Chronic Obstructive Pulmonary Disease
+87,ASIP,434,Type 2 Diabets Mellitus
+88,ATF3,467,Type 2 Diabets Mellitus
+89,ATIC,471,Osteoporosis
+90,ATM,472,Parkinson's Disease
+91,ATP13A2,23400,Parkinson's Disease
+92,ATP1A3,478,Heart Failure | Parkinson's Disease
+93,ATP2A1,487,Heart Failure
+94,ATP2A2,488,Heart Failure | Type 2 Diabets Mellitus
+95,ATP2A3,489,Type 2 Diabets Mellitus
+96,ATP5F1A,498,Alzheimer's Disease
+97,ATP5F1B,506,Non Alcoholic Fatty Liver Disease
+98,ATP6,4508,Parkinson's Disease
+99,AUTS2,26053,Type 2 Diabets Mellitus
+100,AVP,551,Heart Failure
+101,AVPR2,554,Heart Failure
+102,AXL,558,Type 2 Diabets Mellitus
+103,B3GAT1,27087,Non Alcoholic Fatty Liver Disease
+104,BACE1,23621,Alzheimer's Disease
+105,BACE2,25825,Alzheimer's Disease
+106,BAG5,9529,Parkinson's Disease
+107,BAMBI,25805,Heart Failure
+108,BAX,581,Alzheimer's Disease | Type 2 Diabets Mellitus
+109,BCHE,590,Alzheimer's Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+110,BCL2,596,Alzheimer's Disease | Type 2 Diabets Mellitus
+111,BCL2L1,598,Type 2 Diabets Mellitus
+112,BCL2L11,10018,Type 2 Diabets Mellitus
+113,BCL3,602,Atherosclerosis
+114,BDKRB2,624,Chronic Obstructive Pulmonary Disease
+115,BDNF,627,Alzheimer's Disease | Parkinson's Disease
+116,BGLAP,632,Osteoporosis
+117,BHMT,635,Type 2 Diabets Mellitus
+118,BIN1,274,Alzheimer's Disease
+119,BMAL2,56938,Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+120,BMP2,650,Osteoporosis
+121,BMP4,652,Osteoporosis
+122,BRAF,673,Type 2 Diabets Mellitus
+123,BSN,8927,Parkinson's Disease
+124,BST1,683,Parkinson's Disease
+125,BTC,685,Type 2 Diabets Mellitus
+126,C12ORF43,64897,Type 2 Diabets Mellitus
+127,C1QC,714,Non Alcoholic Fatty Liver Disease
+128,C2,717,Alzheimer's Disease
+129,C2CD4A,145741,Type 2 Diabets Mellitus
+130,C2CD4B,388125,Type 2 Diabets Mellitus
+131,C3,718,Alzheimer's Disease | Type 2 Diabets Mellitus
+132,CA2,760,Osteoporosis
+133,CACNA1D,776,Type 2 Diabets Mellitus
+134,CADM2,253559,Type 2 Diabets Mellitus
+135,CALCA,796,Osteoporosis
+136,CALCR,799,Osteoporosis
+137,CALM1,801,Alzheimer's Disease
+138,CAP1,10487,Osteoporosis
+139,CAPN10,11132,Type 2 Diabets Mellitus
+140,CASP3,836,Alzheimer's Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+141,CASP7,840,Alzheimer's Disease
+142,CASP8,841,Type 2 Diabets Mellitus
+143,CASP9,842,Parkinson's Disease | Type 2 Diabets Mellitus
+144,CASQ1,844,Type 2 Diabets Mellitus
+145,CASS4,57091,Alzheimer's Disease
+146,CAST,831,Parkinson's Disease
+147,CAT,847,Heart Failure | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+148,CBL,867,Heart Failure
+149,CBR3,874,Heart Failure
+150,CBS,875,Type 2 Diabets Mellitus
+151,CCDC6,8030,Alzheimer's Disease
+152,CCDC92,80212,Type 2 Diabets Mellitus
+153,CCL1,6346,Chronic Obstructive Pulmonary Disease
+154,CCL2,6347,Atherosclerosis | Heart Failure
+155,CCL3,6348,Atherosclerosis
+156,CCL4,6351,Atherosclerosis
+157,CCN2,1490,Heart Failure
+158,CCND2,894,Type 2 Diabets Mellitus
+159,CCR2,729230,Heart Failure | Non Alcoholic Fatty Liver Disease
+160,CCT2,10576,Osteoporosis
+161,CD14,929,Non Alcoholic Fatty Liver Disease
+162,CD2AP,23607,Alzheimer's Disease
+163,CD33,945,Alzheimer's Disease
+164,CD36,948,Type 2 Diabets Mellitus
+165,CD38,952,Type 2 Diabets Mellitus
+166,CD86,942,Chronic Obstructive Pulmonary Disease
+167,CD8A,925,Chronic Obstructive Pulmonary Disease
+168,CDH2,1000,Heart Failure
+169,CDK4,1019,Type 2 Diabets Mellitus
+170,CDK5,1020,Alzheimer's Disease
+171,CDK5R1,8851,Alzheimer's Disease
+172,CDKAL1,54901,Type 2 Diabets Mellitus
+173,CDKN1A,1026,Chronic Obstructive Pulmonary Disease
+174,CDKN2A,1029,Chronic Obstructive Pulmonary Disease
+175,CDO1,1036,Type 2 Diabets Mellitus
+176,CEACAM6,4680,Parkinson's Disease
+177,CEL,1056,Type 2 Diabets Mellitus
+178,CELA2A,63036,Atherosclerosis
+179,CFD,1675,Heart Failure
+180,CFH,3075,Age-related Macular Degeneration 
+181,CFHR1,3078,Age-related Macular Degeneration 
+182,CFHR3,10878,Age-related Macular Degeneration 
+183,CFTR,1080,Chronic Obstructive Pulmonary Disease
+184,CHAT,1103,Alzheimer's Disease
+185,CHDH,55349,Heart Failure
+186,CHMP2B,25978,Parkinson's Disease
+187,CHRM3,1131,Chronic Obstructive Pulmonary Disease
+188,CHRNA3,1136,Chronic Obstructive Pulmonary Disease
+189,CHRNA5,1138,Chronic Obstructive Pulmonary Disease
+190,CHRNA7,1139,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease
+191,CHRNB2,1141,Alzheimer's Disease
+192,CHRNB3,1142,Parkinson's Disease
+193,CHRNB4,1143,Chronic Obstructive Pulmonary Disease
+194,CIDEA,1149,Heart Failure
+195,CISD2,493856,Type 2 Diabets Mellitus
+196,CLCA1,1179,Chronic Obstructive Pulmonary Disease
+197,CLEC11A,6320,Osteoporosis
+198,CLOCK,9575,Alzheimer's Disease
+199,CLPS,1208,Type 2 Diabets Mellitus
+200,CLU,1191,Alzheimer's Disease | Atherosclerosis
+201,CMIP,80790,Type 2 Diabets Mellitus
+202,CNKSR2,22866,Type 2 Diabets Mellitus
+203,CNR1,1268,Type 2 Diabets Mellitus
+204,CNR2,1269,Atherosclerosis | Parkinson's Disease
+205,CNTNAP2,26047,Parkinson's Disease
+206,COBLL1,22837,Non Alcoholic Fatty Liver Disease
+207,COL19A1,1310,Parkinson's Disease
+208,COL1A1,1277,Osteoporosis
+209,COL1A2,1278,Osteoporosis
+210,COL4A2,1284,Atherosclerosis
+211,CP,1356,Parkinson's Disease
+212,CPE,1363,Type 2 Diabets Mellitus
+213,CPT1A,1374,Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+214,CREB1,1385,Parkinson's Disease
+215,CRH,1392,Alzheimer's Disease
+216,CRHR1,1394,Chronic Obstructive Pulmonary Disease
+217,CRP,1401,Atherosclerosis | Chronic Obstructive Pulmonary Disease | Heart Failure
+218,CRYM,1428,Heart Failure
+219,CS,1431,Heart Failure
+220,CSF1R,1436,Alzheimer's Disease | Parkinson's Disease
+221,CSF2,1437,Heart Failure | Non Alcoholic Fatty Liver Disease
+222,CSF3,1440,Heart Failure
+223,CST3,1471,Alzheimer's Disease
+224,CTLA4,1493,Chronic Obstructive Pulmonary Disease
+225,CTSD,1509,Alzheimer's Disease
+226,CXCL1,2919,Chronic Obstructive Pulmonary Disease
+227,CXCL2,2920,Chronic Obstructive Pulmonary Disease | Heart Failure
+228,CXCR4,7852,Osteoporosis
+229,CYB5R4,51167,Type 2 Diabets Mellitus
+230,CYBA,1535,Atherosclerosis | Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+231,CYBB,1536,Heart Failure
+232,CYP11A1,1583,Chronic Obstructive Pulmonary Disease
+233,CYP11B2,1585,Type 2 Diabets Mellitus
+234,CYP17A1,1586,Non Alcoholic Fatty Liver Disease | Osteoporosis
+235,CYP19A1,1588,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease | Osteoporosis
+236,CYP1A1,1543,Chronic Obstructive Pulmonary Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+237,CYP1A2,1544,Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+238,CYP24A1,1591,Osteoporosis
+239,CYP27A1,1593,Atherosclerosis
+240,CYP2C19,1557,Heart Failure
+241,CYP2C8,1558,Chronic Obstructive Pulmonary Disease
+242,CYP2C9,1559,Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+243,CYP2D6,1565,Alzheimer's Disease | Parkinson's Disease
+244,CYP2E1,1571,Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Parkinson's Disease
+245,CYP2J2,1573,Chronic Obstructive Pulmonary Disease
+246,CYP2R1,120227,Chronic Obstructive Pulmonary Disease
+247,CYP3A4,1576,Type 2 Diabets Mellitus
+248,CYP46A1,10858,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease
+249,CYP4A22,284541,Chronic Obstructive Pulmonary Disease
+250,CYP4A22-AS1,105378701,Chronic Obstructive Pulmonary Disease
+251,CYP4B1,1580,Chronic Obstructive Pulmonary Disease
+252,CYP4Z1,199974,Chronic Obstructive Pulmonary Disease
+253,DAAM2,23500,Osteoporosis
+254,DBH,1621,Parkinson's Disease
+255,DBP,1628,Osteoporosis
+256,DCTN1,1639,Parkinson's Disease
+257,DDC,1644,Parkinson's Disease
+258,DDIT4,54541,Parkinson's Disease
+259,DEFA4,1669,Parkinson's Disease
+260,DEFB1,1672,Chronic Obstructive Pulmonary Disease
+261,DGAT2,84649,Non Alcoholic Fatty Liver Disease
+262,DGKD,8527,Type 2 Diabets Mellitus
+263,DHCR24,1718,Alzheimer's Disease
+264,DLST,1743,Alzheimer's Disease
+265,DNAJC13,23317,Parkinson's Disease
+266,DNAJC3,5611,Type 2 Diabets Mellitus
+267,DNAJC6,9829,Parkinson's Disease
+268,DNM1L,10059,Parkinson's Disease
+269,DPP4,1803,Type 2 Diabets Mellitus
+270,DPYSL2,1808,Alzheimer's Disease
+271,DRAXIN,374946,Parkinson's Disease
+272,DRD1,1812,Parkinson's Disease
+273,DRD2,1813,Parkinson's Disease | Type 2 Diabets Mellitus
+274,DSP,1832,Chronic Obstructive Pulmonary Disease
+275,DSTN,11034,Heart Failure
+276,DUSP1,1843,Osteoarthritis
+277,ECE1,1889,Alzheimer's Disease | Type 2 Diabets Mellitus
+278,ECE2,9718,Alzheimer's Disease
+279,EDN1,1906,Atherosclerosis | Chronic Obstructive Pulmonary Disease | Heart Failure | Parkinson's Disease | Type 2 Diabets Mellitus
+280,EDNRA,1909,Heart Failure | Type 2 Diabets Mellitus
+281,EDNRB,1910,Heart Failure | Type 2 Diabets Mellitus
+282,EEFSEC,60678,Chronic Obstructive Pulmonary Disease
+283,EGFR,1956,Type 2 Diabets Mellitus
+284,EIF2AK1,27102,Non Alcoholic Fatty Liver Disease
+285,EIF2AK2,5610,Alzheimer's Disease | Parkinson's Disease
+286,EIF2S1,1965,Alzheimer's Disease
+287,ELN,2006,Chronic Obstructive Pulmonary Disease
+288,ELOVL6,79071,Heart Failure
+289,EN1,2019,Parkinson's Disease
+290,ENO1,2023,Alzheimer's Disease | Osteoporosis
+291,ENO2,2026,Parkinson's Disease
+292,ENPP1,5167,Type 2 Diabets Mellitus
+293,EP300,2033,Heart Failure
+294,EPC2,26122,Type 2 Diabets Mellitus
+295,EPHA1,2041,Alzheimer's Disease
+296,EPHX1,2052,Chronic Obstructive Pulmonary Disease | Parkinson's Disease
+297,EPHX2,2053,Heart Failure
+298,EPO,2056,Alzheimer's Disease | Heart Failure | Parkinson's Disease
+299,ESR1,2099,Alzheimer's Disease | Atherosclerosis | Non Alcoholic Fatty Liver Disease | Osteoporosis | Type 2 Diabets Mellitus
+300,ESR2,2100,Alzheimer's Disease | Osteoporosis | Parkinson's Disease
+301,ETS1,2113,Type 2 Diabets Mellitus
+302,EYA4,2070,Heart Failure
+303,EZH2,2146,Heart Failure
+304,F2,2147,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease
+305,F2RL1,2150,Chronic Obstructive Pulmonary Disease
+306,F7,2155,Type 2 Diabets Mellitus
+307,FABP3,2170,Type 2 Diabets Mellitus
+308,FAM13A,10144,Chronic Obstructive Pulmonary Disease
+309,FAM234A,83986,Type 2 Diabets Mellitus
+310,FAS,355,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+311,FASLG,356,Atherosclerosis | Type 2 Diabets Mellitus
+312,FASN,2194,Heart Failure
+313,FBLN5,10516,Heart Failure | Age-related Macular Degeneration 
+314,FBP1,2203,Parkinson's Disease
+315,FBXO7,25793,Parkinson's Disease
+316,FCER2,2208,Parkinson's Disease
+317,FCGR2A,2212,Atherosclerosis
+318,FFAR1,2864,Type 2 Diabets Mellitus
+319,FGA,2243,Osteoporosis
+320,FGB,2244,Osteoporosis | Parkinson's Disease
+321,FGF2,2247,Parkinson's Disease
+322,FGF21,26291,Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+323,FGF7,2252,Benign Prostatic Hyperplasia
+324,FIP1L1,81608,Heart Failure
+325,FLNA,2316,Non Alcoholic Fatty Liver Disease
+326,FMC1,154791,Parkinson's Disease
+327,FOLR2,2350,Non Alcoholic Fatty Liver Disease
+328,FOXA2,3170,Type 2 Diabets Mellitus
+329,FOXC2,2303,Type 2 Diabets Mellitus
+330,FOXO3,2309,Chronic Obstructive Pulmonary Disease
+331,FTO,79068,Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+332,FXN,2395,Type 2 Diabets Mellitus
+333,FYN,2534,Alzheimer's Disease
+334,GAK,2580,Parkinson's Disease
+335,GAPDH,2597,Alzheimer's Disease | Osteoporosis | Parkinson's Disease
+336,GAPDHS,26330,Alzheimer's Disease
+337,GARS1,2617,Parkinson's Disease
+338,GATM,2628,Heart Failure
+339,GBA1,2629,Parkinson's Disease
+340,GC,2638,Chronic Obstructive Pulmonary Disease
+341,GCG,2641,Alzheimer's Disease | Heart Failure | Type 2 Diabets Mellitus
+342,GCGR,2642,Type 2 Diabets Mellitus
+343,GCH1,2643,Parkinson's Disease | Type 2 Diabets Mellitus
+344,GCK,2645,Type 2 Diabets Mellitus
+345,GCKR,2646,Type 2 Diabets Mellitus
+346,GCLC,2729,Type 2 Diabets Mellitus
+347,GCLM,2730,Type 2 Diabets Mellitus
+348,GDF15,9518,Heart Failure
+349,GDF5,8200,Osteoarthritis | Parkinson's Disease
+350,GDNF,2668,Parkinson's Disease
+351,GFAP,2670,Parkinson's Disease
+352,GFPT2,9945,Type 2 Diabets Mellitus
+353,GHR,2690,Type 2 Diabets Mellitus
+354,GHRL,51738,Heart Failure | Type 2 Diabets Mellitus
+355,GIGYF2,26058,Parkinson's Disease
+356,GIP,2695,Type 2 Diabets Mellitus
+357,GLIS3,169792,Type 2 Diabets Mellitus
+358,GLO1,2739,Type 2 Diabets Mellitus
+359,GLP1R,2740,Type 2 Diabets Mellitus
+360,GLUL,2752,Alzheimer's Disease
+361,GNAQ,2776,Heart Failure
+362,GNB1,2782,Heart Failure
+363,GNB3,2784,Type 2 Diabets Mellitus
+364,GNMT,27232,Non Alcoholic Fatty Liver Disease
+365,GORAB,92344,Osteoporosis
+366,GP2,2813,Type 2 Diabets Mellitus
+367,GP6,51206,Type 2 Diabets Mellitus
+368,GPC6,10082,Osteoporosis
+369,GPD2,2820,Osteoporosis | Type 2 Diabets Mellitus
+370,GPT,2875,Non Alcoholic Fatty Liver Disease
+371,GPX1,2876,Osteoporosis | Type 2 Diabets Mellitus
+372,GPX3,2878,Type 2 Diabets Mellitus
+373,GPX4,2879,Heart Failure
+374,GRB14,2888,Type 2 Diabets Mellitus
+375,GRIK5,2901,Chronic Obstructive Pulmonary Disease
+376,GRIN2B,2904,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease
+377,GRIN2C,2905,Alzheimer's Disease
+378,GRK2,156,Heart Failure
+379,GRK6,2870,Parkinson's Disease
+380,GRN,2896,Alzheimer's Disease | Parkinson's Disease
+381,GSK3B,2932,Alzheimer's Disease | Heart Failure
+382,GSN,2934,Osteoporosis
+383,GSR,2936,Parkinson's Disease
+384,GSS,2937,Alzheimer's Disease
+385,GSTA1,2938,Non Alcoholic Fatty Liver Disease
+386,GSTA4,2941,Parkinson's Disease
+387,GSTM1,2944,Atherosclerosis | Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+388,GSTM3,2947,Alzheimer's Disease
+389,GSTO1,9446,Alzheimer's Disease | Parkinson's Disease
+390,GSTO2,119391,Alzheimer's Disease | Parkinson's Disease
+391,GSTP1,2950,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Osteoporosis | Parkinson's Disease | Type 2 Diabets Mellitus
+392,GSTT1,2952,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+393,H19,283120,Heart Failure
+394,HAND2,9464,Heart Failure
+395,HBA1,3039,Type 2 Diabets Mellitus
+396,HBG1,3047,Parkinson's Disease
+397,HDAC2,3066,Chronic Obstructive Pulmonary Disease
+398,HDAC9,9734,Atherosclerosis
+399,HECTD4,283450,Type 2 Diabets Mellitus
+400,HFE,3077,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+401,HFE-AS1,108783645,Alzheimer's Disease
+402,HGF,3082,Parkinson's Disease
+403,HHEX,3087,Type 2 Diabets Mellitus
+404,HHIP,64399,Chronic Obstructive Pulmonary Disease
+405,HIF1A,3091,Chronic Obstructive Pulmonary Disease | Heart Failure | Type 2 Diabets Mellitus
+406,HK1,3098,Type 2 Diabets Mellitus
+407,HK2,3099,Type 2 Diabets Mellitus
+408,HLA-DPB1,3115,Chronic Obstructive Pulmonary Disease
+409,HLA-DQA1,3117,Type 2 Diabets Mellitus
+410,HLA-DRA,3122,Parkinson's Disease
+411,HLA-DRB1,3123,Alzheimer's Disease | Parkinson's Disease
+412,HMCN1,83872,Age-related Macular Degeneration 
+413,HMG20A,10363,Type 2 Diabets Mellitus
+414,HMGA1,3159,Type 2 Diabets Mellitus
+415,HMGCR,3156,Alzheimer's Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+416,HMGCS2,3158,Heart Failure
+417,HMOX1,3162,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease | Heart Failure | Parkinson's Disease | Type 2 Diabets Mellitus
+418,HNF1A,6927,Type 2 Diabets Mellitus
+419,HNF1B,6928,Type 2 Diabets Mellitus
+420,HNF4A,3172,Type 2 Diabets Mellitus
+421,HNMT,3176,Parkinson's Disease
+422,HOXA11-AS,221883,Heart Failure
+423,HP,3240,Atherosclerosis | Type 2 Diabets Mellitus
+424,HPX,3263,Type 2 Diabets Mellitus
+425,HRH1,3269,Atherosclerosis
+426,HSD11B1,3290,Type 2 Diabets Mellitus
+427,HSPA1A,3303,Alzheimer's Disease | Atherosclerosis | Chronic Obstructive Pulmonary Disease | Parkinson's Disease
+428,HSPA1B,3304,Alzheimer's Disease | Atherosclerosis | Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+429,HSPA1L,3305,Chronic Obstructive Pulmonary Disease
+430,HSPA8,3312,Parkinson's Disease
+431,HSPA9,3313,Parkinson's Disease
+432,HSPB1,3315,Heart Failure
+433,HTR2A,3356,Chronic Obstructive Pulmonary Disease
+434,HTR2B,3357,Heart Failure
+435,HTR6,3362,Alzheimer's Disease
+436,HTRA1,5654,Age-related Macular Degeneration 
+437,HTRA2,27429,Parkinson's Disease
+438,HTT,3064,Parkinson's Disease
+439,HYKK,123688,Chronic Obstructive Pulmonary Disease
+440,IAPP,3375,Type 2 Diabets Mellitus
+441,ICAM1,3383,Alzheimer's Disease | Atherosclerosis | Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+442,ID1,3397,Type 2 Diabets Mellitus
+443,IDE,3416,Alzheimer's Disease | Type 2 Diabets Mellitus
+444,IDH2,3418,Osteoporosis
+445,IFI30,10437,Non Alcoholic Fatty Liver Disease
+446,IFIT3,3437,Heart Failure
+447,IFNG,3458,Atherosclerosis | Heart Failure | Type 2 Diabets Mellitus
+448,IFNL4,101180976,Non Alcoholic Fatty Liver Disease
+449,IGF1,3479,Alzheimer's Disease | Type 2 Diabets Mellitus
+450,IGF1R,3480,Alzheimer's Disease | Osteoporosis | Parkinson's Disease
+451,IGF2,3481,Alzheimer's Disease | Atherosclerosis | Parkinson's Disease
+452,IGF2BP2,10644,Type 2 Diabets Mellitus
+453,IGF2R,3482,Alzheimer's Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+454,IGFBP3,3486,Alzheimer's Disease | Type 2 Diabets Mellitus
+455,IKBKB,3551,Type 2 Diabets Mellitus
+456,IKBKG,8517,Non Alcoholic Fatty Liver Disease
+457,IL10,3586,Alzheimer's Disease | Type 2 Diabets Mellitus
+458,IL12B,3593,Chronic Obstructive Pulmonary Disease
+459,IL13,3596,Chronic Obstructive Pulmonary Disease
+460,IL13RA1,3597,Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+461,IL1A,3552,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease | Osteoporosis
+462,IL1B,3553,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease | Heart Failure | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+463,IL1RN,3557,Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Osteoporosis | Type 2 Diabets Mellitus
+464,IL2,3558,Alzheimer's Disease
+465,IL27,246778,Chronic Obstructive Pulmonary Disease
+466,IL3,3562,Non Alcoholic Fatty Liver Disease
+467,IL32,9235,Osteoporosis
+468,IL4,3565,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease
+469,IL6,3569,Atherosclerosis | Chronic Obstructive Pulmonary Disease | Heart Failure | Non Alcoholic Fatty Liver Disease | Osteoarthritis | Osteoporosis | Parkinson's Disease | Type 2 Diabets Mellitus
+470,IL6R,3570,Alzheimer's Disease | Osteoporosis
+471,INPP5D,3635,Alzheimer's Disease
+472,INPPL1,3636,Type 2 Diabets Mellitus
+473,INS,3630,Alzheimer's Disease | Heart Failure | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+474,INS-IGF2,723961,Type 2 Diabets Mellitus
+475,INSR,3643,Alzheimer's Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+476,IQCK,124152,Alzheimer's Disease
+477,IREB2,3658,Alzheimer's Disease
+478,IRS1,3667,Alzheimer's Disease | Type 2 Diabets Mellitus
+479,IRS2,8660,Type 2 Diabets Mellitus
+480,ISL1,3670,Type 2 Diabets Mellitus
+481,ITGA1,3672,Type 2 Diabets Mellitus
+482,ITGA2,3673,Type 2 Diabets Mellitus
+483,ITGB1,3688,Heart Failure
+484,ITLN1,55600,Type 2 Diabets Mellitus
+485,JADE2,23338,Type 2 Diabets Mellitus
+486,JAK2,3717,Non Alcoholic Fatty Liver Disease
+487,JAZF1,221895,Type 2 Diabets Mellitus
+488,KALRN,8997,Atherosclerosis
+489,KAT8,84148,Heart Failure
+490,KCNJ11,3767,Type 2 Diabets Mellitus
+491,KCNJ4,3761,Parkinson's Disease
+492,KCNK16,83795,Type 2 Diabets Mellitus
+493,KCNK18,338567,Parkinson's Disease
+494,KCNMA1,3778,Alzheimer's Disease
+495,KCNQ1,3784,Type 2 Diabets Mellitus
+496,KCNU1,157855,Type 2 Diabets Mellitus
+497,KIF6,221458,Type 2 Diabets Mellitus
+498,KL,9365,Osteoporosis | Type 2 Diabets Mellitus
+499,KLB,152831,Non Alcoholic Fatty Liver Disease
+500,KLC1,3831,Alzheimer's Disease
+501,KLF11,8462,Type 2 Diabets Mellitus
+502,KLF14,136259,Type 2 Diabets Mellitus
+503,KLF5,688,Chronic Obstructive Pulmonary Disease
+504,KLK3,354,Benign Prostatic Hyperplasia
+505,KLK6,5653,Alzheimer's Disease | Parkinson's Disease
+506,KSR2,283455,Type 2 Diabets Mellitus
+507,LAMA1,284217,Non Alcoholic Fatty Liver Disease
+508,LCN1,3933,Chronic Obstructive Pulmonary Disease
+509,LDLR,3949,Alzheimer's Disease | Atherosclerosis | Non Alcoholic Fatty Liver Disease
+510,LEP,3952,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Osteoporosis | Type 2 Diabets Mellitus
+511,LEPR,3953,Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Osteoporosis | Type 2 Diabets Mellitus
+512,LIF,3976,Non Alcoholic Fatty Liver Disease
+513,LIPC,3990,Alzheimer's Disease | Type 2 Diabets Mellitus
+514,LMNA,4000,Type 2 Diabets Mellitus
+515,LOC106627981,106627981,Parkinson's Disease
+516,LOC107063610,107063610,Chronic Obstructive Pulmonary Disease
+517,LOC110121471,110121471,Type 2 Diabets Mellitus
+518,LOC111188154,111188154,Parkinson's Disease
+519,LOC126653330,126653330,Alzheimer's Disease
+520,LOC126805793,126805793,Age-related Macular Degeneration 
+521,LOC126805794,126805794,Age-related Macular Degeneration 
+522,LOC126805899,126805899,Chronic Obstructive Pulmonary Disease
+523,LOC126805953,126805953,Age-related Macular Degeneration 
+524,LOC126807011,126807011,Type 2 Diabets Mellitus
+525,LOC126861898,126861898,Heart Failure
+526,LOC126862549,126862549,Type 2 Diabets Mellitus
+527,LOC126862586,126862586,Osteoporosis
+528,LOC129388665,129388665,Age-related Macular Degeneration 
+529,LOC129933272,129933272,Parkinson's Disease
+530,LOC130059892,130059892,Osteoporosis
+531,LPL,4023,Alzheimer's Disease | Type 2 Diabets Mellitus
+532,LRP1,4035,Alzheimer's Disease
+533,LRP1B,53353,Chronic Obstructive Pulmonary Disease
+534,LRP5,4041,Osteoporosis
+535,LRP8,7804,Alzheimer's Disease
+536,LRPAP1,4043,Alzheimer's Disease
+537,LRRC10,376132,Heart Failure
+538,LRRK2,120892,Parkinson's Disease
+539,LTA,4049,Type 2 Diabets Mellitus
+540,LTA4H,4048,Atherosclerosis
+541,LTBP1,4052,Osteoarthritis
+542,LTF,4057,Osteoporosis
+543,MAEA,10296,Type 2 Diabets Mellitus
+544,MAG,4099,Parkinson's Disease
+545,MANF,7873,Parkinson's Disease
+546,MAOA,4128,Alzheimer's Disease | Parkinson's Disease
+547,MAOB,4129,Alzheimer's Disease | Parkinson's Disease
+548,MAP2,4133,Parkinson's Disease
+549,MAP2K1,5604,Heart Failure
+550,MAP2K7,5609,Heart Failure
+551,MAP3K5,4217,Parkinson's Disease
+552,MAPK1,5594,Parkinson's Disease
+553,MAPK10,5602,Heart Failure
+554,MAPK3,5595,Parkinson's Disease
+555,MAPK8,5599,Type 2 Diabets Mellitus
+556,MAPK8IP1,9479,Type 2 Diabets Mellitus
+557,MAPK9,5601,Type 2 Diabets Mellitus
+558,MAPT,4137,Alzheimer's Disease | Parkinson's Disease
+559,MAPT-AS1,100128977,Parkinson's Disease
+560,MAT1A,4143,Type 2 Diabets Mellitus
+561,MBL2,4153,Alzheimer's Disease | Chronic Obstructive Pulmonary Disease
+562,MCM2,4171,Alzheimer's Disease
+563,MGLL,11343,Osteoporosis
+564,MGST1,4257,Chronic Obstructive Pulmonary Disease
+565,MGST3,4259,Chronic Obstructive Pulmonary Disease
+566,MIF,4282,Chronic Obstructive Pulmonary Disease
+567,MIR100,406892,Alzheimer's Disease
+568,MIR106B,406900,Heart Failure
+569,MIR107,406901,Heart Failure
+570,MIR10B,406903,Type 2 Diabets Mellitus
+571,MIR124-3,406909,Alzheimer's Disease
+572,MIR1249,100302149,Type 2 Diabets Mellitus
+573,MIR125A,406910,Heart Failure
+574,MIR125B1,406911,Type 2 Diabets Mellitus
+575,MIR126,406913,Heart Failure | Type 2 Diabets Mellitus
+576,MIR127,406914,Type 2 Diabets Mellitus
+577,MIR1306,100302197,Type 2 Diabets Mellitus
+578,MIR130B,406920,Type 2 Diabets Mellitus
+579,MIR133A2,406923,Heart Failure
+580,MIR140,406932,Heart Failure | Type 2 Diabets Mellitus
+581,MIR141,406933,Type 2 Diabets Mellitus
+582,MIR142,406934,Type 2 Diabets Mellitus
+583,MIR144,406936,Heart Failure | Type 2 Diabets Mellitus
+584,MIR145,406937,Heart Failure
+585,MIR146A,406938,Alzheimer's Disease
+586,MIR148A,406940,Heart Failure
+587,MIR150,406942,Heart Failure
+588,MIR151A,442893,Heart Failure | Type 2 Diabets Mellitus
+589,MIR15B,406949,Heart Failure
+590,MIR17,406952,Heart Failure
+591,MIR181C,406957,Parkinson's Disease | Type 2 Diabets Mellitus
+592,MIR18A,406953,Heart Failure
+593,MIR191,406966,Heart Failure
+594,MIR192,406967,Type 2 Diabets Mellitus
+595,MIR193B,574455,Heart Failure
+596,MIR195,406971,Heart Failure | Type 2 Diabets Mellitus
+597,MIR19A,406979,Heart Failure
+598,MIR200A,406983,Type 2 Diabets Mellitus
+599,MIR204,406987,Type 2 Diabets Mellitus
+600,MIR205,406988,Type 2 Diabets Mellitus
+601,MIR20A,406982,Heart Failure
+602,MIR20B,574032,Heart Failure
+603,MIR21,406991,Heart Failure
+604,MIR210,406992,Heart Failure
+605,MIR214,406996,Type 2 Diabets Mellitus
+606,MIR218-2,407001,Chronic Obstructive Pulmonary Disease
+607,MIR219A1,407002,Osteoarthritis
+608,MIR221,407006,Type 2 Diabets Mellitus
+609,MIR222,407007,Type 2 Diabets Mellitus
+610,MIR23A,407010,Heart Failure
+611,MIR26B,407017,Heart Failure
+612,MIR27A,407018,Type 2 Diabets Mellitus
+613,MIR296,407022,Alzheimer's Disease
+614,MIR301A,407027,Heart Failure
+615,MIR30A,407029,Type 2 Diabets Mellitus
+616,MIR30B,407030,Heart Failure
+617,MIR326,442900,Heart Failure
+618,MIR337,442905,Osteoarthritis
+619,MIR339,442907,Type 2 Diabets Mellitus
+620,MIR342,442909,Heart Failure
+621,MIR361,494323,Heart Failure
+622,MIR375,494324,Alzheimer's Disease | Type 2 Diabets Mellitus
+623,MIR377,494326,Type 2 Diabets Mellitus
+624,MIR409,574413,Heart Failure | Type 2 Diabets Mellitus
+625,MIR423,494335,Type 2 Diabets Mellitus
+626,MIR4713HG,109729174,Chronic Obstructive Pulmonary Disease
+627,MIR484,619553,Heart Failure
+628,MIR487B,664616,Type 2 Diabets Mellitus
+629,MIR494,574452,Heart Failure
+630,MIR532,693124,Heart Failure | Type 2 Diabets Mellitus
+631,MIR628,693213,Type 2 Diabets Mellitus
+632,MIR708,100126333,Alzheimer's Disease
+633,MIR92B,693235,Type 2 Diabets Mellitus
+634,MIR93,407050,Heart Failure
+635,MIR96,407053,Heart Failure
+636,MIR98,407054,Heart Failure | Type 2 Diabets Mellitus
+637,MIR99B,407056,Heart Failure
+638,MIRLET7D,406886,Type 2 Diabets Mellitus
+639,MIRLET7G,406890,Heart Failure
+640,MIRLET7I,406891,Heart Failure
+641,MME,4311,Alzheimer's Disease
+642,MMP1,4312,Atherosclerosis | Heart Failure | Non Alcoholic Fatty Liver Disease
+643,MMP14,4323,Chronic Obstructive Pulmonary Disease
+644,MMP9,4318,Chronic Obstructive Pulmonary Disease
+645,MPO,4353,Alzheimer's Disease | Atherosclerosis
+646,MRAS,22808,Type 2 Diabets Mellitus
+647,MRE11,4361,Parkinson's Disease
+648,MRTFA,57591,Non Alcoholic Fatty Liver Disease
+649,MS4A4A,51338,Alzheimer's Disease
+650,MSTN,2660,Heart Failure
+651,MT2A,4502,Type 2 Diabets Mellitus
+652,MT3,4504,Alzheimer's Disease
+653,MTA1,9112,Parkinson's Disease
+654,MTCL1,23255,Chronic Obstructive Pulmonary Disease
+655,MTHFD2,10797,Heart Failure
+656,MTHFR,4524,Alzheimer's Disease | Atherosclerosis | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+657,MTNR1B,4544,Type 2 Diabets Mellitus
+658,MTOR,2475,Type 2 Diabets Mellitus
+659,MTRR,4552,Parkinson's Disease
+660,MTTP,4547,Non Alcoholic Fatty Liver Disease
+661,MX1,4599,Heart Failure
+662,MYBPC3,4607,Heart Failure
+663,MYH7,4625,Heart Failure
+664,MYOC,4653,Heart Failure
+665,NAT2,10,Chronic Obstructive Pulmonary Disease | Parkinson's Disease
+666,NCAPG2,54892,Parkinson's Disease
+667,NCF2,4688,Alzheimer's Disease
+668,NCK2,8440,Alzheimer's Disease
+669,NCSTN,23385,Alzheimer's Disease
+670,ND1,4535,Alzheimer's Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+671,ND2,4536,Alzheimer's Disease | Parkinson's Disease
+672,ND3,4537,Parkinson's Disease
+673,ND4,4538,Parkinson's Disease
+674,ND6,4541,Parkinson's Disease
+675,NDUFV2,4729,Parkinson's Disease
+676,NECTIN2,5819,Alzheimer's Disease | Atherosclerosis | Parkinson's Disease
+677,NEFM,4741,Alzheimer's Disease
+678,NEUROD1,4760,Type 2 Diabets Mellitus
+679,NEUROG3,50674,Type 2 Diabets Mellitus
+680,NEXN,91624,Heart Failure
+681,NFATC2,4773,Type 2 Diabets Mellitus
+682,NFE2L2,4780,Alzheimer's Disease | Heart Failure | Non Alcoholic Fatty Liver Disease
+683,NFKB1,4790,Type 2 Diabets Mellitus
+684,NGF,4803,Parkinson's Disease
+685,NGFR,4804,Alzheimer's Disease
+686,NISCH,11188,Heart Failure
+687,NKX6-1,4825,Type 2 Diabets Mellitus
+688,NLRP3,114548,Non Alcoholic Fatty Liver Disease
+689,NOD2,64127,Chronic Obstructive Pulmonary Disease
+690,NOS1,4842,Alzheimer's Disease | Parkinson's Disease
+691,NOS2,4843,Atherosclerosis | Chronic Obstructive Pulmonary Disease | Heart Failure | Parkinson's Disease | Type 2 Diabets Mellitus
+692,NOS3,4846,Alzheimer's Disease | Atherosclerosis | Chronic Obstructive Pulmonary Disease | Heart Failure | Type 2 Diabets Mellitus
+693,NOTCH2,4853,Type 2 Diabets Mellitus
+694,NOX1,27035,Heart Failure
+695,NOX4,50507,Heart Failure
+696,NPC1,4864,Atherosclerosis
+697,NPPA,4878,Heart Failure
+698,NPPB,4879,Atherosclerosis | Heart Failure
+699,NPR1,4881,Heart Failure
+700,NPY,4852,Alzheimer's Disease | Type 2 Diabets Mellitus
+701,NQO1,1728,Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Parkinson's Disease
+702,NQO2,4835,Parkinson's Disease
+703,NR0B2,8431,Type 2 Diabets Mellitus
+704,NR1H2,7376,Type 2 Diabets Mellitus
+705,NR1H4,9971,Atherosclerosis | Non Alcoholic Fatty Liver Disease
+706,NR3C1,2908,Chronic Obstructive Pulmonary Disease
+707,NR3C2,4306,Heart Failure
+708,NR4A2,4929,Parkinson's Disease
+709,NR5A2,2494,Non Alcoholic Fatty Liver Disease
+710,NRG1,3084,Heart Failure
+711,NRIP1,8204,Heart Failure | Osteoporosis
+712,NTF3,4908,Alzheimer's Disease
+713,NTRK1,4914,Alzheimer's Disease
+714,NTRK2,4915,Alzheimer's Disease
+715,NUS1,116150,Type 2 Diabets Mellitus
+716,OFD1,8481,Osteoporosis
+717,OGDHL,55753,Heart Failure
+718,OGG1,4968,Type 2 Diabets Mellitus
+719,OLR1,4973,Heart Failure
+720,OPA1,4976,Osteoporosis
+721,OPA1-AS1,100873941,Osteoporosis
+722,OXCT1,5019,Osteoporosis
+723,P2RY12,64805,Type 2 Diabets Mellitus
+724,P4HB,5034,Osteoporosis
+725,PAM,5066,Type 2 Diabets Mellitus
+726,PAMR1,25891,Heart Failure
+727,PARK7,11315,Osteoporosis | Parkinson's Disease
+728,PARL,55486,Type 2 Diabets Mellitus
+729,PARP1,142,Alzheimer's Disease | Atherosclerosis | Parkinson's Disease
+730,PAX4,5078,Type 2 Diabets Mellitus
+731,PAX6,5080,Type 2 Diabets Mellitus
+732,PC,5091,Type 2 Diabets Mellitus
+733,PCDH11X,27328,Alzheimer's Disease
+734,PCK1,5105,Alzheimer's Disease | Heart Failure | Type 2 Diabets Mellitus
+735,PCSK2,5126,Type 2 Diabets Mellitus
+736,PDE3B,5140,Chronic Obstructive Pulmonary Disease
+737,PDGFB,5155,Benign Prostatic Hyperplasia
+738,PDGFD,80310,Benign Prostatic Hyperplasia
+739,PDGFRA,5156,Heart Failure
+740,PDGFRB,5159,Parkinson's Disease
+741,PDK4,5166,Non Alcoholic Fatty Liver Disease
+742,PDLIM4,8572,Osteoporosis
+743,PDPK1,5170,Heart Failure
+744,PDX1,3651,Type 2 Diabets Mellitus
+745,PDYN,5173,Parkinson's Disease
+746,PEBP1,5037,Heart Failure
+747,PEMT,10400,Non Alcoholic Fatty Liver Disease
+748,PEPD,5184,Type 2 Diabets Mellitus
+749,PGLS,25796,Osteoporosis
+750,PGRMC1,10857,Alzheimer's Disease
+751,PHACTR2,9749,Parkinson's Disease
+752,PHF6,84295,Heart Failure
+753,PICALM,8301,Alzheimer's Disease
+754,PIK3C2G,5288,Type 2 Diabets Mellitus
+755,PIK3CG,5294,Heart Failure | Type 2 Diabets Mellitus
+756,PIK3R1,5295,Alzheimer's Disease | Type 2 Diabets Mellitus
+757,PILRA,29992,Alzheimer's Disease
+758,PINK1,65018,Parkinson's Disease
+759,PINK1-AS,100861548,Parkinson's Disease
+760,PIRC66,100313865,Chronic Obstructive Pulmonary Disease
+761,PKLR,5313,Type 2 Diabets Mellitus
+762,PKM,5315,Osteoporosis
+763,PLA2G2A,5320,Atherosclerosis
+764,PLA2G6,8398,Parkinson's Disease
+765,PLA2G7,7941,Atherosclerosis | Type 2 Diabets Mellitus
+766,PLAT,5327,Atherosclerosis | Heart Failure | Type 2 Diabets Mellitus
+767,PLAU,5328,Alzheimer's Disease
+768,PLCG2,5336,Alzheimer's Disease
+769,PLEK,5341,Osteoporosis
+770,PLEKHA1,59338,Type 2 Diabets Mellitus
+771,PLXNA1,5361,Parkinson's Disease
+772,PNMT,5409,Alzheimer's Disease
+773,PNOC,5368,Parkinson's Disease
+774,PNP,4860,Osteoporosis
+775,PNPLA2,57104,Heart Failure
+776,PNPLA3,80339,Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+777,POLG,5428,Parkinson's Disease
+778,POMC,5443,Heart Failure | Osteoporosis
+779,PON1,5444,Alzheimer's Disease | Atherosclerosis | Heart Failure | Parkinson's Disease | Type 2 Diabets Mellitus
+780,PON2,5445,Alzheimer's Disease | Type 2 Diabets Mellitus
+781,PON3,5446,Alzheimer's Disease | Atherosclerosis
+782,POR,5447,Heart Failure
+783,PPARA,5465,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+784,PPARD,5467,Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+785,PPARG,5468,Alzheimer's Disease | Atherosclerosis | Heart Failure | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+786,PPARGC1A,10891,Heart Failure | Non Alcoholic Fatty Liver Disease | Parkinson's Disease | Type 2 Diabets Mellitus
+787,PPM1K,152926,Heart Failure
+788,PPP1R1A,5502,Heart Failure
+789,PPP1R3A,5506,Type 2 Diabets Mellitus
+790,PPP2R2B,5521,Alzheimer's Disease
+791,PPP3R1,5534,Alzheimer's Disease
+792,PRDX3,10935,Non Alcoholic Fatty Liver Disease | Osteoporosis
+793,PRF1,5551,Non Alcoholic Fatty Liver Disease
+794,PRKAA2,5563,Type 2 Diabets Mellitus
+795,PRKACA,5566,Heart Failure | Non Alcoholic Fatty Liver Disease
+796,PRKAR2A,5576,Heart Failure
+797,PRKAR2B,5577,Heart Failure
+798,PRKCA,5578,Non Alcoholic Fatty Liver Disease
+799,PRKCB,5579,Type 2 Diabets Mellitus
+800,PRKCD,5580,Non Alcoholic Fatty Liver Disease | Parkinson's Disease
+801,PRKCE,5581,Non Alcoholic Fatty Liver Disease
+802,PRKN,5071,Parkinson's Disease
+803,PRKRA,8575,Parkinson's Disease
+804,PRL,5617,Benign Prostatic Hyperplasia | Heart Failure | Parkinson's Disease
+805,PRNP,5621,Alzheimer's Disease
+806,PROX1,5629,Type 2 Diabets Mellitus
+807,PSEN1,5663,Alzheimer's Disease | Heart Failure
+808,PSEN2,5664,Alzheimer's Disease
+809,PSMA2,5683,Osteoporosis
+810,PSMA5,5686,Osteoporosis
+811,PSMD6,9861,Type 2 Diabets Mellitus
+812,PTEN,5728,Non Alcoholic Fatty Liver Disease
+813,PTGIS,5740,Parkinson's Disease
+814,PTGS1,5742,Heart Failure
+815,PTGS2,5743,Atherosclerosis | Chronic Obstructive Pulmonary Disease | Heart Failure
+816,PTH,5741,Heart Failure | Osteoporosis | Type 2 Diabets Mellitus
+817,PTK2B,2185,Alzheimer's Disease
+818,PTPN1,5770,Type 2 Diabets Mellitus
+819,PTPRD,5789,Type 2 Diabets Mellitus
+820,PTPRF,5792,Heart Failure
+821,PTRHD1,391356,Parkinson's Disease
+822,PYY,5697,Alzheimer's Disease
+823,RAB32,10981,Parkinson's Disease
+824,RAB7B,338382,Osteoporosis
+825,RAC1,5879,Heart Failure
+826,RAG2,5897,Non Alcoholic Fatty Liver Disease
+827,RAPGEF3,10411,Chronic Obstructive Pulmonary Disease
+828,RBP4,5950,Heart Failure | Type 2 Diabets Mellitus
+829,RBPJ,3516,Type 2 Diabets Mellitus
+830,RBPJL,11317,Type 2 Diabets Mellitus
+831,RCAN1,1827,Alzheimer's Disease
+832,RCAN2,10231,Non Alcoholic Fatty Liver Disease
+833,RDX,5962,Non Alcoholic Fatty Liver Disease
+834,RELN,5649,Alzheimer's Disease
+835,REN,5972,Heart Failure | Osteoporosis
+836,RETN,56729,Heart Failure | Type 2 Diabets Mellitus
+837,RFC1,5981,Parkinson's Disease
+838,RGS2,5997,Parkinson's Disease
+839,RIC3,79608,Parkinson's Disease
+840,RNF6,6049,Type 2 Diabets Mellitus
+841,ROCK2,9475,Heart Failure
+842,RPL14,9045,Parkinson's Disease
+843,RPL23A,6147,Parkinson's Disease
+844,RPL6,6128,Parkinson's Disease
+845,RPS8,6202,Parkinson's Disease
+846,RRAD,6236,Type 2 Diabets Mellitus
+847,RSAD2,91543,Heart Failure
+848,RSU1,6251,Osteoporosis
+849,RTEL1,51750,Chronic Obstructive Pulmonary Disease
+850,RYR1,6261,Heart Failure | Osteoporosis
+851,RYR3,6263,Heart Failure
+852,S100A6,6277,Type 2 Diabets Mellitus
+853,S100B,6285,Alzheimer's Disease
+854,SAMM50,25813,Non Alcoholic Fatty Liver Disease
+855,SBNO1,55206,Osteoarthritis
+856,SCARB1,949,Non Alcoholic Fatty Liver Disease
+857,SCD,6319,Heart Failure
+858,SCGB1A1,7356,Chronic Obstructive Pulmonary Disease
+859,SCN5A,6331,Heart Failure
+860,SCTR,6344,Type 2 Diabets Mellitus
+861,SEPTIN14,346288,Parkinson's Disease
+862,SERPINA1,5265,Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease
+863,SERPINA3,12,Chronic Obstructive Pulmonary Disease
+864,SERPINB2,5055,Non Alcoholic Fatty Liver Disease
+865,SERPINE1,5054,Atherosclerosis | Heart Failure
+866,SERPINE2,5270,Alzheimer's Disease
+867,SERPINF1,5176,Osteoporosis | Type 2 Diabets Mellitus
+868,SFRP4,6424,Type 2 Diabets Mellitus
+869,SFTPA1,653509,Chronic Obstructive Pulmonary Disease
+870,SFTPB,6439,Chronic Obstructive Pulmonary Disease
+871,SFTPC,6440,Chronic Obstructive Pulmonary Disease
+872,SFTPD,6441,Chronic Obstructive Pulmonary Disease
+873,SGCG,6445,Type 2 Diabets Mellitus
+874,SHBG,6462,Type 2 Diabets Mellitus
+875,SHH,6469,Parkinson's Disease
+876,SIRT1,23411,Atherosclerosis | Heart Failure | Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+877,SKP2,6502,Osteoarthritis
+878,SLC11A2,4891,Parkinson's Disease
+879,SLC18A2,6571,Parkinson's Disease
+880,SLC1A2,6506,Type 2 Diabets Mellitus
+881,SLC22A3,6581,Type 2 Diabets Mellitus
+882,SLC2A1,6513,Type 2 Diabets Mellitus
+883,SLC2A2,6514,Type 2 Diabets Mellitus
+884,SLC2A4,6517,Alzheimer's Disease | Type 2 Diabets Mellitus
+885,SLC30A10,55532,Parkinson's Disease
+886,SLC30A4,7782,Alzheimer's Disease
+887,SLC30A6,55676,Alzheimer's Disease
+888,SLC30A8,169026,Type 2 Diabets Mellitus
+889,SLC38A2,54407,Parkinson's Disease
+890,SLC39A14,23516,Parkinson's Disease
+891,SLC6A3,6531,Parkinson's Disease
+892,SLC6A4,6532,Chronic Obstructive Pulmonary Disease | Heart Failure
+893,SLC9A1,6548,Heart Failure
+894,SMAD5,4090,Type 2 Diabets Mellitus
+895,SMC1A,8243,Heart Failure
+896,SMIM43,132332,Type 2 Diabets Mellitus
+897,SNAP25,6616,Type 2 Diabets Mellitus
+898,SNCA,6622,Alzheimer's Disease | Heart Failure | Parkinson's Disease
+899,SNCA-AS1,644248,Parkinson's Disease
+900,SNCAIP,9627,Parkinson's Disease
+901,SNCB,6620,Parkinson's Disease
+902,SOCS3,9021,Atherosclerosis
+903,SOD1,6647,Atherosclerosis | Heart Failure | Parkinson's Disease | Type 2 Diabets Mellitus
+904,SOD2,6648,Alzheimer's Disease | Atherosclerosis | Heart Failure | Non Alcoholic Fatty Liver Disease | Osteoporosis | Parkinson's Disease | Type 2 Diabets Mellitus
+905,SOD3,6649,Chronic Obstructive Pulmonary Disease | Heart Failure | Type 2 Diabets Mellitus
+906,SORBS1,10580,Type 2 Diabets Mellitus
+907,SORCS1,114815,Alzheimer's Disease
+908,SORL1,6653,Alzheimer's Disease
+909,SOX4,6659,Heart Failure
+910,SPHK1,8877,Type 2 Diabets Mellitus
+911,SPHKAP,80309,Heart Failure
+912,SPRED2,200734,Alzheimer's Disease
+913,SRC,6714,Osteoporosis | Type 2 Diabets Mellitus
+914,SRD5A1,6715,Benign Prostatic Hyperplasia
+915,SRD5A2,6716,Benign Prostatic Hyperplasia
+916,SREBF1,6720,Non Alcoholic Fatty Liver Disease | Type 2 Diabets Mellitus
+917,SREBF2,6721,Type 2 Diabets Mellitus
+918,SRSF2,6427,Heart Failure
+919,ST6GAL1,6480,Type 2 Diabets Mellitus
+920,STAT3,6774,Alzheimer's Disease | Atherosclerosis | Heart Failure | Type 2 Diabets Mellitus
+921,STC2,8614,Non Alcoholic Fatty Liver Disease
+922,SYNJ1,8867,Parkinson's Disease
+923,TALDO1,6888,Parkinson's Disease
+924,TAP2,6891,Alzheimer's Disease
+925,TARDBP,23435,Parkinson's Disease
+926,TBC1D24,57465,Parkinson's Disease
+927,TBX20,57057,Heart Failure
+928,TCF7L2,6934,Type 2 Diabets Mellitus
+929,TCN2,6948,Parkinson's Disease
+930,TERT,7015,Chronic Obstructive Pulmonary Disease
+931,TF,7018,Alzheimer's Disease
+932,TFAM,7019,Alzheimer's Disease | Parkinson's Disease
+933,TG,7038,Non Alcoholic Fatty Liver Disease
+934,TGFB1,7040,Chronic Obstructive Pulmonary Disease | Non Alcoholic Fatty Liver Disease | Osteoporosis
+935,TGM2,7052,Type 2 Diabets Mellitus
+936,TGM6,343641,Parkinson's Disease
+937,TH,7054,Parkinson's Disease
+938,THADA,63892,Type 2 Diabets Mellitus
+939,TIMP1,7076,Type 2 Diabets Mellitus
+940,TLN1,7094,Osteoporosis
+941,TLR2,7097,Heart Failure
+942,TLR4,7099,Alzheimer's Disease | Atherosclerosis | Chronic Obstructive Pulmonary Disease | Type 2 Diabets Mellitus
+943,TM6SF2,53345,Non Alcoholic Fatty Liver Disease
+944,TMEM18,129787,Type 2 Diabets Mellitus
+945,TMEM230,29058,Parkinson's Disease
+946,TMEM71,137835,Heart Failure
+947,TNF,7124,Alzheimer's Disease | Atherosclerosis | Chronic Obstructive Pulmonary Disease | Heart Failure | Non Alcoholic Fatty Liver Disease | Osteoarthritis | Parkinson's Disease | Type 2 Diabets Mellitus
+948,TNFRSF11A,8792,Osteoporosis
+949,TNFRSF11B,4982,Osteoporosis
+950,TNFRSF1A,7132,Heart Failure | Type 2 Diabets Mellitus
+951,TNFRSF1B,7133,Heart Failure | Non Alcoholic Fatty Liver Disease | Osteoporosis | Parkinson's Disease | Type 2 Diabets Mellitus
+952,TNFRSF8,943,Chronic Obstructive Pulmonary Disease
+953,TNFSF11,8600,Osteoporosis
+954,TNFSF8,944,Chronic Obstructive Pulmonary Disease
+955,TNK2,10188,Parkinson's Disease
+956,TNNT2,7139,Chronic Obstructive Pulmonary Disease | Heart Failure
+957,TNR,7143,Parkinson's Disease
+958,TOLLIP,54472,Chronic Obstructive Pulmonary Disease
+959,TOMM40,10452,Alzheimer's Disease
+960,TP53,7157,Chronic Obstructive Pulmonary Disease | Heart Failure
+961,TPH1,7166,Alzheimer's Disease
+962,TPI1,7167,Alzheimer's Disease | Osteoporosis
+963,TPM4,7171,Osteoporosis
+964,TPP1,1200,Alzheimer's Disease
+965,TREM2,54209,Alzheimer's Disease
+966,TRIB1,10221,Non Alcoholic Fatty Liver Disease
+967,TRIB3,57761,Non Alcoholic Fatty Liver Disease
+968,TRIM28,10155,Atherosclerosis
+969,TRNL1,4567,Age-related Macular Degeneration 
+970,TRPM2,7226,Parkinson's Disease
+971,TRPM4,54795,Heart Failure
+972,TRPV1,7442,Atherosclerosis
+973,TRPV4,59341,Chronic Obstructive Pulmonary Disease
+974,TSPAN14,81619,Alzheimer's Disease
+975,TTPA,7274,Atherosclerosis
+976,TTR,7276,Alzheimer's Disease
+977,TUBA1B,10376,Osteoporosis
+978,TUBA1C,84790,Osteoporosis
+979,TUBB,203068,Heart Failure
+980,TXNRD1,7296,Heart Failure
+981,TYROBP,7305,Parkinson's Disease
+982,U2AF1,7307,Osteoporosis
+983,UBE2E2,7325,Type 2 Diabets Mellitus
+984,UCHL1,7345,Alzheimer's Disease | Parkinson's Disease
+985,UCN2,90226,Heart Failure
+986,UCP1,7350,Heart Failure | Type 2 Diabets Mellitus
+987,UCP2,7351,Type 2 Diabets Mellitus
+988,UCP3,7352,Type 2 Diabets Mellitus
+989,UNC13C,440279,Alzheimer's Disease
+990,UQCRC1,7384,Alzheimer's Disease
+991,USF1,7391,Type 2 Diabets Mellitus
+992,USP48,84196,Type 2 Diabets Mellitus
+993,UTS2,10911,Type 2 Diabets Mellitus
+994,VCAM1,7412,Atherosclerosis
+995,VCL,7414,Osteoporosis
+996,VCP,7415,Alzheimer's Disease
+997,VDR,7421,Chronic Obstructive Pulmonary Disease | Parkinson's Disease
+998,VEGFA,7422,Alzheimer's Disease | Atherosclerosis | Heart Failure
+999,VIM,7431,Atherosclerosis
+1000,VLDLR,7436,Alzheimer's Disease | Non Alcoholic Fatty Liver Disease
+1001,VPS13C,54832,Parkinson's Disease
+1002,VPS26A,9559,Type 2 Diabets Mellitus
+1003,VPS35,55737,Parkinson's Disease
+1004,VSNL1,7447,Alzheimer's Disease
+1005,VWF,7450,Heart Failure
+1006,WDR1,9948,Osteoporosis
+1007,WFS1,7466,Type 2 Diabets Mellitus
+1008,WNT1,7471,Osteoporosis
+1009,WRN,7486,Type 2 Diabets Mellitus
+1010,WT1,7490,Alzheimer's Disease
+1011,WWOX,51741,Alzheimer's Disease
+1012,WWP2,11060,Osteoarthritis
+1013,XAF1,54739,Heart Failure
+1014,XBP1,7494,Non Alcoholic Fatty Liver Disease
+1015,XDH,7498,Heart Failure
+1016,XRCC1,7515,Type 2 Diabets Mellitus
+1017,XRCC5,7520,Chronic Obstructive Pulmonary Disease
+1018,XRN1,54464,Alzheimer's Disease
+1019,YY1,7528,Heart Failure
+1020,ZC3HC1,51530,Type 2 Diabets Mellitus
+1021,ZDHHC13,54503,Osteoporosis
+1022,ZEB2-AS1,100303491,Heart Failure
+1023,ZFAND3,60685,Type 2 Diabets Mellitus

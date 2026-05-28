@@ -1,0 +1,6 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/ajayaks/NetMedPy-main/proximity_computation/proximity_analysis/barabasi_luck_ruiz/RA_IMPPAT/precompute_PPI_distances/src/saving_the_all_pair_distance_matrix.py", line 6, in <module>
+    with open('../input/Human_PPI_largest_without_lit_BM.pkl', 'rb') as file1:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '../input/Human_PPI_largest_without_lit_BM.pkl'
