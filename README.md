@@ -10,7 +10,7 @@ This repository computes network proximity between aging hallmark genes and age-
 
 This repository is associated with the manuscript:  
 Rahul Tiwari, Mridhula Balaji, Nikhil Chivukula, Priyotosh Sil, and Areejit Samal\*,<br>
-*An integrated resource for systems-level analysis of aging hallmarks and associated genes*, (2026).<br>
+[An integrated resource for systems-level analysis of aging hallmarks and associated genes](https://doi.org/10.64898/2026.05.29.728838), bioRxiv 2026.05.29.728838 (2026).<br>
 (\* Corresponding author: [asamal@imsc.res.in](mailto:asamal@imsc.res.in))  
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -116,4 +116,4 @@ pip install -r requirements.txt
 If you use the code or data in this repository, please cite the following manuscript:
 
 Rahul Tiwari, Mridhula Balaji, Nikhil Chivukula, Priyotosh Sil, and Areejit Samal,<br>
-*An integrated resource for systems-level analysis of aging hallmarks and associated genes*, (2026).
+[An integrated resource for systems-level analysis of aging hallmarks and associated genes](https://doi.org/10.64898/2026.05.29.728838), bioRxiv 2026.05.29.728838 (2026).
