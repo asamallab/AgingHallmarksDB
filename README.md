@@ -4,13 +4,19 @@ This repository computes network proximity between aging hallmark genes and age-
 - precomputing the shortest path distances between all-pairs on the PPI graph
 - scoring proximity for each disease–aging hallmark pair
 
+
+## Contributors
+
+- [Rahul Tiwari](https://github.com/rtiwari-compbio)
+- Priyotosh Sil
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Reference
 
 This repository is associated with the manuscript:  
 Rahul Tiwari, Mridhula Balaji, Nikhil Chivukula, Priyotosh Sil, and Areejit Samal\*,<br>
-[An integrated resource for systems-level analysis of aging hallmarks and associated genes](https://doi.org/10.64898/2026.05.29.728838), bioRxiv 2026.05.29.728838 (2026).<br>
+[An integrated resource for systems-level analysis of aging hallmarks and associated genes]([https://doi.org/10.64898/2026.05.29.728838](https://doi.org/10.1007/s10522-026-10520-2), Biogerontology, 27: 173 (2026).<br>
 (\* Corresponding author: [asamal@imsc.res.in](mailto:asamal@imsc.res.in))  
 
 -----------------------------------------------------------------------------------------------------------------------------
